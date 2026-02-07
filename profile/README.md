@@ -1,6 +1,8 @@
-# GORA BETA Version
+#  GORA BETA Version
 
-GORA App is a React-based web application that helps users plan their journeys by providing guided route options and estimated fares. By selecting an origin and a destination, users can view multiple route alternatives, recommended vehicle types for each route, and an estimated cost to help them choose the most efficient and affordable way to travel.
+
+
+GORA <img width="20" height="83" alt="image" src="https://github.com/user-attachments/assets/3c5fd850-25a8-43ec-b41d-c9f80fdb3063" /> is a React-based web application that helps users plan their journeys by providing guided route options and estimated fares. By selecting an origin and a destination, users can view multiple route alternatives, recommended vehicle types for each route, and an estimated cost to help them choose the most efficient and affordable way to travel.
 
 The application focuses on clarity and usability, making route planning simple and accessible whether for daily commuting or unfamiliar destinations.
 
