@@ -6,5 +6,10 @@ The application focuses on clarity and usability, making route planning simple a
 
 https://gora.kevinloquencio.it.com
 
-<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/91e5acd9-44bd-4283-817e-b730389b8c40" />
+<img width="496" height="941" alt="image" src="https://github.com/user-attachments/assets/7d599534-c309-4cdb-bb2a-0113fde9f64b" />
+
+<img width="1918" height="944" alt="image" src="https://github.com/user-attachments/assets/ef58a4fc-b148-444e-9f21-4ff27b9d5220" />
+
+
+
 
